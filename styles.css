@@ -1,0 +1,57 @@
+#img_div_header{
+    display: flex;
+    justify-content: center;
+    padding: 20PX;
+    background-color:cornsilk;
+    margin: -10px;
+}
+
+#img_header{
+    display: flex;
+    justify-content: center;
+    padding: 20PX;
+    background-color:cornsilk;
+    margin: 10px;
+}
+
+#ul_header{
+    display: flex;
+    justify-content: space-around;
+    background-color: cornsilk;
+    margin: 0px;
+
+}
+
+li{
+    display: inline-block;
+
+}
+
+#titulo{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#imagenes{
+display: flex;
+justify-content: space-around;
+
+
+
+}
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+}
+
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    border-color: black;
+    margin: 10px;
+    text-decoration: double;
+}
